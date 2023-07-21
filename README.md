@@ -1,2 +1,2 @@
 # Landing-Page
-I have completed this project with reference to the "ODIN PROJECT"
+I have completed this project with reference to "THE ODIN PROJECT"
