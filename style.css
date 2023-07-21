@@ -1,0 +1,35 @@
+*{
+    margin:0px
+}
+
+body {
+    text-align: center;
+}
+
+.header {
+    background: #1F2937;
+    color: white;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.quote-section {
+    background: #e5e7eb;
+    font-variant: small-caps;
+    font-size: 36px;
+    color: #1F2937;
+} 
+
+button {
+    background: #3882F6;
+    color:white;
+    border: 1px solid white;
+    border-radius:7px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 5px 25px;
+}
+
+
+
